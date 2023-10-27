@@ -1,4 +1,4 @@
-# U-Create-RS-Pixel
+# UCreate-RS-Affiliate-Conversion-Pixel
 UCreate RS Affiliate Conversion Pixel template for GTM https://www.reklamstore.com/
 
 
