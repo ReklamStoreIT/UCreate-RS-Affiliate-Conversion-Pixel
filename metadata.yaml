@@ -2,7 +2,7 @@ homepage: "http://my.reklamaction.com"
 documentation: "https://support.reklamstore.com/reklam-store-affiliate"
 versions:
 # Latest Version
-  - sha: 1cbfe1b08510b635987be332949cd4a79a8ae28c
+  - sha: 092ef5eb950873c5dc0026d3815ed0143bfe2204
     changeNotes: changed domain name
   - sha: 219313301ddfc0d8b467004b9f28d326b463e673
     changeNotes: Created metadata.yaml.
